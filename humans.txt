@@ -1,0 +1,14 @@
+/* TEAM */
+
+Publisher: Insurance Bill Help
+Role: Independent Informational Publisher
+
+/* SITE */
+
+Purpose: Insurance billing guidance and bill payment help
+Platform: GitHub Pages
+Type: Publisher-style SEO resource
+
+/* LAST UPDATED */
+
+April 2026
