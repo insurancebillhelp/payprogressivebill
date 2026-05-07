@@ -1,14 +1,11 @@
 /* TEAM */
 
 Publisher: Insurance Bill Help
-Role: Independent Informational Publisher
+Repository: payprogressivebill
+Website: https://insurancebillhelp.github.io/payprogressivebill/
 
 /* SITE */
 
-Purpose: Insurance billing guidance and bill payment help
-Platform: GitHub Pages
-Type: Publisher-style SEO resource
-
-/* LAST UPDATED */
-
-April 2026
+Standards: HTML5, CSS3, JSON-LD
+Components: FAQ Schema, HowTo Schema, Breadcrumb Schema, Speakable Schema
+Type: Publisher-grade insurance billing resource
